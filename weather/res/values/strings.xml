@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="menu">Menu</string>
+    <string name="temp">Temperature</string>
+    <string name="humi">Humidiry</string>
+    <string name="cond">Condition</string>
+    <string name="date">Current date</string>
+    <string name="day">Current day</string>
+    <string name="curImg">Current date</string>
+    <string name="btnOk">OK</string>
+
+</resources>
